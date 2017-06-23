@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/DFS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/DManager" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/DMessage" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/DProcess" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/DQuery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/DStorage" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/DStreaming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/DFS" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/DManager" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/DMessage" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/DProcess" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/DQuery" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/DStorage" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/DStreaming" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.11.8" level="application" />
+  </component>
+</module>
